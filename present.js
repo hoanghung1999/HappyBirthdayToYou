@@ -61,7 +61,9 @@ var x=0;
 function changeImage()
 {
   // document.querySelector('#card .honey').setAttribute('src', images[x]);
-           document.getElementById("Crush").src=images[x]
+          document.getElementById("Crush").src=images[x]
+          document.querySelector('#card .honey').setAttribute('src', images[x]);
+
            x++;
            if (images.length == x) 
            {
