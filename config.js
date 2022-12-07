@@ -1,8 +1,8 @@
 const nameGirl = 'H....';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100012088603861';
-const eventName = 'Happy birth day to Ms';
+const eventName = 'Happy birthday to Ms';
 const titleCard = 'He sờ lô';
-const contentCard = 'Chúc H  sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
+const contentCard = 'Chúc cậu (H) sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với c trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
